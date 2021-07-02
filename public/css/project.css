@@ -1,0 +1,535 @@
+*{
+    font-family: sans-serif;
+}
+.logo{
+    background: #DE7047 none repeat scroll 0 0;
+    padding: 12px 0;
+    padding-top: 12px;
+    padding-right: 0px;
+    padding-bottom: 12px;
+    padding-left: 0px;
+    color: white;
+}
+.lgo1{
+    padding-right: 10px;
+}
+.lgo2{
+    padding-left: 10px;
+    padding-right: 15px;
+}
+.lgo3{
+    padding-left: 20px;
+    padding-right: 10px;
+}
+.lg1{
+    padding-left: 30%;
+}
+.mlem{
+    padding-right: 10px;
+}
+.logo>.text{
+    display:flex;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: #1b1a1a !important;
+    font-weight: 700;
+    font-size: 115%;
+}
+.navbar-light .navbar-nav .nav-link:hover {
+    color: #de7047 !important;
+}
+.dropdown-item  {
+    color: #ffffff !important;
+}
+
+.dropdown-item :hover {
+    color: #de7047 !important;
+}
+.dropdown-menu>li>a{
+    background-color: #de7047 !important;
+    padding-top: 10%;
+    padding-bottom: 10%;
+}
+.dropdown-menu>li>a:hover{
+    background-color: #ffffff !important;
+    color: #de7047 !important;
+}
+.menu{
+    padding: 30px;
+}
+.navbar-brand{
+    margin-left: 2%;
+    max-width: 100%;
+    height: auto;
+}
+.rora>h1{
+    position: absolute;
+    bottom: 50px;
+    color: #ffffff;
+    font-family: sans-serif;
+    padding-bottom: 10%;
+    font-size: 5rem;
+    font-family: 'Playfair Display', serif;
+}
+.rora>h5{
+    position: absolute;
+    color: #ffffff;
+    bottom: 50px;
+}
+.content{
+    padding: 60px;
+}
+.feature2{
+    background-color: #38424e;
+    color:#ffffff;
+}
+.feature3{
+    background-color: #696258;
+    color:#ffffff;
+}
+.feature4{
+    background-color: #2f363e;
+    color:#ffffff;
+}
+.feature2>i{
+    padding-top: 50px;
+    padding-bottom:20px;
+    font-size: 60px;
+}
+.feature3>i{
+    padding-top: 50px;
+    padding-bottom:20px;
+    font-size: 60px;
+}
+.feature4>i{
+    padding-top: 50px;
+    padding-bottom:20px;
+    font-size: 60px;
+}
+.feature2>h4{
+    font-family: 'Playfair Display', serif;
+    font-style: normal;
+}
+.feature3>h4{
+    font-family: 'Playfair Display', serif;
+    font-style: normal;
+}
+.feature4>h4{
+    font-family: 'Playfair Display', serif;
+    font-style: normal;
+}
+.lun{
+    padding-bottom: 30px;
+}
+.layer1>h1{
+    font-family: 'Playfair Display', serif;
+    font-style: normal;
+    font-weight: bolder;
+    font-size: 2.5rem;
+    color:#4e5366;
+    padding-bottom: 30px;
+}
+.er1{
+    padding-top: 40px;
+    color:#de7047;
+}
+.layer2{
+    font-family: 'Playfair Display', serif;
+    color:#a19998;
+    padding-top: 57px;
+    font-style: normal;
+}
+.layer2>a{
+    color: #ffffff;
+    text-decoration: none;
+    background-color: #de7047;
+    font-size: 1.1rem;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+.layer2>a:hover{
+    color: #ffffff;
+    background-color: #686056;
+}
+.er2{
+    padding-bottom: 35px;
+}
+.layer3{
+    padding-top: 35px;
+}
+.kc{
+    padding-top: 85px;
+}
+.menter{
+    background-image: url(https://demo.themexbd.com/wpt/lawmaster/wp-content/uploads/2020/10/pattrick1-bg.jpg);
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+.menter1>p{
+    color: #ffffff;
+    font-size: 50px;
+    font-family: 'Playfair Display', serif;
+    font-style: normal;
+}
+.menter1>h3{
+    color: #ffffff;
+    font-style: normal;
+    font-family: 'Playfair Display', serif;
+}
+.sister{
+    padding-top: 100px;
+}
+.sister1{
+    color: #df7750;
+    font-size: 1.5rem;
+    font-family: 'Playfair Display', serif;
+    font-style: normal;
+}
+.sister2{
+    color: #4e5467;
+    font-family: 'Playfair Display', serif;
+    font-style: normal;
+    font-size: 40px;
+}
+.male{
+    padding-top: 40px;
+}
+.male1{
+    margin-right: 30px;
+    border: #f0f0f0 solid 1px;
+    padding-top: 40px;
+}
+.male2{
+    margin-right: 30px;
+    border: #f0f0f0 solid 1px;
+    padding-top: 40px;
+}
+.male3{
+    margin-right: 30px;
+    border: #f0f0f0 solid 1px;
+    padding-top: 40px;
+}
+.male1>h4{
+    font-family: 'Playfair Display', serif;
+    font-style: normal;
+    color: #4e5467;
+    padding-bottom: 15px;
+    padding-top: 5%;
+}
+.male2>h4{
+    font-family: 'Playfair Display', serif;
+    font-style: normal;
+    color: #4e5467;
+    padding-bottom: 15px;
+    padding-top: 5%;
+}
+.male3>h4{
+    font-family: 'Playfair Display', serif;
+    font-style: normal;
+    color: #4e5467;
+    padding-bottom: 15px;
+    padding-top: 5%;
+}
+.male1>p{
+    color: #969ea5;
+}
+.male2>p{
+    color: #969ea5;
+}
+.male3>p{
+    color: #969ea5;
+}
+.ml{
+    padding-bottom: 30px;;
+}
+.soli{
+    padding-top: 30px;
+}
+.soli1{
+    border: #f0f0f0 solid 1px;
+    padding-top: 40px;
+    margin-right: 30px;  
+}
+.soli2{
+    border: #f0f0f0 solid 1px;
+    padding-top: 40px;
+    margin-right: 30px;
+}
+.soli3{
+    border: #f0f0f0 solid 1px;
+    padding-top: 40px;
+    margin-right: 30px;
+}
+.room2>i{
+    border: #ececec 1px solid;
+    padding: 28px 28px;
+}
+.room2>i:hover{
+    border: #de7047 1px solid;
+    padding: 28px 28px;
+}
+.soli1>h4{
+    font-family: 'Playfair Display', serif;
+    font-style: normal;
+    color: #4e5467;
+    padding-bottom: 15px;
+    padding-top: 5%;
+}
+.soli2>h4{
+    font-family: 'Playfair Display', serif;
+    font-style: normal;
+    color: #4e5467;
+    padding-bottom: 15px;
+    padding-top: 5%;
+}
+.soli3>h4{
+    font-family: 'Playfair Display', serif;
+    font-style: normal;
+    color: #4e5467;
+    padding-bottom: 15px;
+    padding-top: 5%;
+}
+.soli3>i:hover{
+    color:#de7047;
+}
+.soli1>p{
+    color: #969ea5;
+}
+.soli2>p{
+    color: #969ea5;
+}
+.soli3>p{
+    color: #969ea5;
+}
+.xaxi{
+    padding-bottom: 1%;
+}
+.sn{
+    padding-bottom: 30px;;
+}
+.cola{
+    padding-top: 100px;
+}
+.cola1{
+    color: #e07751;
+    font-size: 1.5rem;
+    font-family: 'Playfair Display', serif;
+    font-style: normal;
+}
+.cola2{
+    color: #4f5568;
+    font-family: 'Playfair Display', serif;
+    font-style: normal;
+    font-size: 40px;
+}
+.cola3{
+    color: #969fa6;
+}
+.sony1{
+    background-color: #de7148;
+    color: #fdf8f6;
+    margin: 1%;
+    margin-left: 2.5%;
+}
+.sony2{
+    background-color: #de7148;
+    color: #fdf8f6;
+    margin: 1%;
+    margin-left: 2.5%;
+}
+.sony3{
+    background-color: #de7148;
+    color: #fdf8f6;
+    margin: 1%;
+    margin-left: 2.5%;
+}
+.sony1>h3{
+    padding-top: 30px;
+    font-family: 'Playfair Display', serif;
+    font-style: normal;
+}
+.sony2>h3{
+    padding-top: 30px;
+    font-family: 'Playfair Display', serif;
+    font-style: normal;
+}
+.sony3>h3{
+    padding-top: 30px;
+    font-family: 'Playfair Display', serif;
+    font-style: normal;
+}
+.tiki{
+    background-image: url("https://demo.themexbd.com/wpt/lawmaster/wp-content/uploads/2020/10/pattrick1-bg.jpg");
+    padding-top: 90px;
+    padding-bottom: 120px;
+}
+.tiki1{
+    color: #ffffff;
+}
+.tiki1>h4{
+    font-family: 'Playfair Display', serif;
+    font-style: normal;
+}
+.tiki1>h1{
+    font-size: 50px;
+    font-family: 'Playfair Display', serif;
+    font-style: normal;
+}
+.tiki1>i{
+    color: #de7047;
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+.tiki1>p{
+    padding-bottom: 5px;
+}
+.tiki1>h3{
+    font-family: 'Playfair Display', serif;
+    font-style: normal;
+    padding-top: 10px;
+}
+.bu{
+    padding-bottom: 70px;
+}
+.sansi{
+    padding-top: 100px;
+}
+.sansi1{
+    color: #e28461;
+    font-size: 1.5rem;
+    font-family: 'Playfair Display', serif;
+    font-style: normal;
+}
+.sansi2{
+    color: #52586b;
+    font-family: 'Playfair Display', serif;
+    font-style: normal;
+    font-size: 40px;
+}
+.sansi3{
+    color: #969fa6;
+}
+.sl1{
+    color: #de7047;
+    padding-right: 10px;
+    padding-left: 25px;
+}
+.sl2{
+    color: #de7047;
+    padding-left: 25px;
+    padding-right: 10px;
+    padding-top: 20px;
+}
+.sl3{
+    color: #2b2c2c;
+    font-family: 'Playfair Display', serif;
+    font-style: normal;
+    padding-top: 10px;
+    padding-left: 20px;
+}
+.sl4{
+    color: #99a1a8;
+    padding-top: 17x;
+    padding-left: 20px;
+}
+.cash{
+    background-color: #191919;
+    color: #ffffff;
+}
+.cash1>img{
+    padding-top: 80px;
+}
+.cash1>p{
+    padding-top: 35px;
+}
+.rounded-circle{
+    width: 100%;
+}
+.cash2{
+    padding-top: 78px;
+    padding-right: 20px;
+}
+.cash2>h3{
+    font-family: 'Playfair Display', serif;
+    font-style: normal;
+    padding-bottom: 27px;
+}
+.sh1{
+    padding-right: 10px;
+}
+.sh2{
+    padding-right: 10px;
+}
+.sh3{
+    padding-right: 10px;
+}
+.cash3{
+    padding-top: 78px;
+}
+.cash3>h3{
+    font-family: 'Playfair Display', serif;
+    font-style: normal;
+    padding-bottom: 27px;
+}
+.cash4{
+    padding-top: 78px;
+}
+.cash4>h3{
+    font-family: 'Playfair Display', serif;
+    font-style: normal;
+    padding-bottom: 27px;
+}
+.csh{
+    padding-top: 40px;
+}
+.video-item i {
+    color: #fff;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translateX(-50%) translateY(-50%);
+}
+.piza>input{
+    background-color: #191919;
+    border:#4c4c4c 1px solid;
+    border-radius: 4px;
+    padding: 12px 0px;
+}
+.piza>button{
+    background-color: #de7047;
+    border: #de7047 solid 1px;
+    border-radius: 4px;
+    padding: 12px 20px;
+    color: #ffffff;
+}
+.piza>button:hover{
+    background-color: #ffffff;
+    border: #ffffff solid 1px;
+    color: #de7047;
+}
+footer{
+    background-color: #292929;
+}
+.clock>a{
+    color: #ffffff;
+    text-decoration: none;
+    padding-left: 20px;
+}
+.clock>a:hover{
+    color: #de7047;
+}
+.lun>i{
+    border: #686056 1px solid;
+    height: 35px;
+    width: 35px;
+    border-radius: 50px;
+    color: #ffffff;
+    padding: 10px 10px;
+}
+.lun{
+    padding-right: 10px;
+}
+.lun>i:hover{
+    background-color: #de7047;
+}
+
